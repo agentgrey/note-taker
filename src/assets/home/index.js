@@ -1,0 +1,12 @@
+export { default as PDF } from "./pdf.png";
+export { default as USER } from "./user.png";
+export { default as CARD_ASSET } from "./Asset.png";
+export { default as DOCUMENT } from "./document.png";
+export { default as CREDORE_LOGO } from "./credoreLogo.png";
+export { default as CHATICON } from "./chaticon.png";
+export { default as NOTIFICATIONBELL } from "./notificationbell.png";
+export { default as MAIL } from "./mail.png";
+export { default as DEFAULTIMG } from "./defaultimg.png";
+export { default as ACTIVE_BOOKING } from "./appointment (2).png";
+export { default as PENDING_APPROVAL } from "./pending (2).png";
+export { default as CANCEL_APPROVAL } from "./cancel-booking (1).png";
