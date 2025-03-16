@@ -45,9 +45,13 @@ export default function AccountMenu() {
 
       <div className="flex items-center  gap-6">
         <div className="flex gap-6 items-center">
+          <h2 className="text-xl font-semibold text-black">John Doe</h2>
+          <p className="text-gray-500">johndoe@example1.com</p>
+          <span className="px-3 py-1 text-sm bg-blue-100 text-blue-700 rounded-full">
+            Admin
+          </span>
           
-          
-          <Link href={"/notification"}>
+          {/* <Link href={"/notification"}>
             <Tooltip title="Notifications">
               <Badge
                 badgeContent={10}
@@ -62,7 +66,7 @@ export default function AccountMenu() {
                 </p>
               </Badge>
             </Tooltip>
-          </Link>
+          </Link> */}
         </div>
         <Tooltip >
           <div className="flex w-fit  items-center justify-start gap-2 overflow-hidden bg-white">
