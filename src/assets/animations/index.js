@@ -1,0 +1,12 @@
+export { default as NORESULTS } from "./noresults.json";
+export { default as LOADER } from "./loader.json";
+export { default as NODOCUMENT } from "./noDocument.json";
+export { default as EMAILSENT } from "./email-sent.json";
+export { default as ERROR404 } from "./error-404.json";
+export { default as NOSEARCHRESULTS } from "./noSearchData.json";
+export { default as NOLOCATION } from "./location.json";
+export { default as UPLOAD } from "./upload.json";
+export { default as CLOSE } from "./close.json";
+export { default as DONE } from "./done.json";
+export { default as SIGNIN } from "./SignInNew.json";
+export { default as SIGNUP } from "./SignUp.json";
